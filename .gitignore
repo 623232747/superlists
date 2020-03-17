@@ -1,0 +1,5 @@
+"geckodriver"
+"__pycache__" 
+"*.pyc" 
+"db.sqlite3"
+db.sqlite3
